@@ -29,7 +29,6 @@ Explore the transformative 'English Language Proficiency Program' at Bardsir Ref
 - **Prerequisites:** With inclusivity at its core, the program is open to individuals of all language backgrounds, requiring no prerequisites for enrollment. This ensures accessibility and encourages a diverse group of participants to embark on their language learning journey.
 
 Join us on this educational odyssey, where language proficiency becomes a powerful tool for communication and community-building at Bardsir Refugee Settlement.
+Mastery Workshop an ideal choice for those seeking to strengthen their foundation in mathematics.
 
-
-
-
+Embark on this mathematical journey at Bardsir Refugee Settlement, where the Mathematics Mastery Workshop becomes a bridge to mathematical proficiency and confidence.
