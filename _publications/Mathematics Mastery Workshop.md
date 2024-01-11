@@ -2,7 +2,7 @@
 title: "Mathematics Mastery Workshop"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Dive into the 'Mathematics Mastery Workshop'—an 8-week program exploring algebra, geometry, and problem-solving, tailored for individuals with a basic understanding of high school math concepts.'
+excerpt: 'Delve into our 8-week Mathematics Workshop—explore algebra, geometry, and problem-solving with basic high school math knowledge.'
 date: 2024-01-01
 venue: 'Bardsir Refugee settlement'
 paperurl: '...'
