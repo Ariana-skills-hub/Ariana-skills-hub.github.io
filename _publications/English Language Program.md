@@ -1,5 +1,5 @@
 ---
-title: "English Language Proficiency Program"
+title: "English Language Program"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Discover language mastery at Bardsir Refugee Settlement's 12-week English Program—covering grammar, vocabulary, reading, and writing, no prerequisites!'
