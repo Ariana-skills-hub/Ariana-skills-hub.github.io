@@ -2,7 +2,7 @@
 title: "English Language Program"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Delve into our 8-week Mathematics Workshop—explore algebra, geometry, and problem-solving with basic high school math knowledge.'
+excerpt: 'Discover language mastery at Bardsir Refugee Settlement's 12-week English Program.'
 date: 2024-01-01
 venue: 'Bardsir Refugee settlement'
 paperurl: '...'
