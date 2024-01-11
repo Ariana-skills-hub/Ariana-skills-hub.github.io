@@ -1,6 +1,6 @@
 ---
 title: "Student Achievements"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Highlighting Ariana Skills Hubs student excellence and achievements globally.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

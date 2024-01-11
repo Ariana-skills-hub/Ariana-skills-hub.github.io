@@ -1,6 +1,7 @@
 ---
 title: "Innovative Projects"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Dive into Ariana Skills Hub's student projects, showcasing creativity and innovation.
+<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
