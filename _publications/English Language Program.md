@@ -2,7 +2,7 @@
 title: "English Language Program"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-4
-excerpt: 'Discover language mastery at Bardsir Refugee Settlement's 12-week English Program'
+excerpt: 'Discover language mastery at Bardsir Refugee Settlements 12-week English Program'
 date: 2023-03-01
 venue: 'Bardsir Refugee Settlement'
 paperurl: '...'
