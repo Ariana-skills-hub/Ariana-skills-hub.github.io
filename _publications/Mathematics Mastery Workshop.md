@@ -6,7 +6,7 @@ excerpt: 'Delve into our 8-week Mathematics Workshop—explore algebra, geometry
 date: 2024-01-01
 venue: 'Bardsir Refugee settlement'
 paperurl: '...'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Ali Reza Rahimi'
 ---
 **Mathematics Mastery Workshop**
 
