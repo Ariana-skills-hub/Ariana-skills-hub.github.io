@@ -1,5 +1,5 @@
 ---
-title: "Course Descriptions:"
+title: "English Language Proficiency Program"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
@@ -15,19 +15,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 - **Duration:** 12 weeks
 - **Prerequisites:** None
 
-**Mathematics Mastery Workshop**
 
-- **Topics Covered:** Algebra, Geometry, Problem Solving
-- **Duration:** 8 weeks
-- **Prerequisites:** Basic understanding of high school math concepts
 
-**Computer Literacy Course**
 
-- **Topics Covered:** Basic Computer Skills, Coding Fundamentals, Internet Safety
-- **Duration:** 10 weeks
-- **Prerequisites:** None
 
-![Alt Text](/images/course.jpg)
-
----
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
