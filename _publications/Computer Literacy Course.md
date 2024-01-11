@@ -5,7 +5,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Empower yourself with our Computer Literacy Course covering Basic Computer Skills, Coding Fundamentals, and Internet Safety – no prerequisites required!'
 date: 2023-03-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: '...'
 citation: 'Ali Reza Rahimi'
 ---
 **Computer Literacy Course**
